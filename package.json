@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "author": "Alekhya Jaddu",
   "version": "0.0.0",
   "private": true,
   "scripts": {
